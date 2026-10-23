@@ -5,7 +5,7 @@
 AI 비전의 인식 결과가 실제 로봇 동작으로 이어지도록 연결합니다.  
 로그와 실패 장면을 바탕으로 원인을 나누고, 같은 입력에서 수정 전후를 확인합니다.
 
-[포트폴리오](https://omveryo.github.io/) · [Notion 상세 기록](https://app.notion.com/p/5e18a6d7140b8345ade101b81971344b) · [Email](mailto:omver5669@gmail.com)
+[포트폴리오](https://omveryo.github.io/) · [Notion 상세 기록](https://omver.notion.site/AI-5e18a6d7140b8345ade101b81971344b) · [Email]: omver5669@gmail.com
 
 ## About
 
